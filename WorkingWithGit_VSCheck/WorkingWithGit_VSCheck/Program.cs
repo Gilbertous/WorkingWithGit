@@ -6,7 +6,9 @@ namespace WorkingWithGit_VSCheck
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
+            Console.WriteLine("I just added this in Visual Studio");
         }
     }
 }
